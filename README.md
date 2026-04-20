@@ -52,12 +52,19 @@ Function 8:	9.8208672019139
 We are further informed of the domains for each of the functions, see below.
 
 Function 1:	Maximisation, detect likely contamination sources in a two-dimensional area, such as a radiation field, where only proximity yields a non-zero reading.
+
 Function 2:	Maximisation, a black box, or a mystery ML model, that takes two numbers as input and returns a log-likelihood score.
+
 Function 3:	Maximisation, a drug discovery project, testing combinations of three compounds to create a new medicine
+
 Function 4:	Maximisation, the challenge of optimally placing products across warehouses for a business with high online sales, where accurate calculations are costly and only feasible biweekly.
+
 Function 5:	Maximisation, optimising a four-variable black-box function that represents the yield of a chemical process in a factory.
+
 Function 6:	Maximisation, optimising a cake recipe using a black-box function with five ingredient inputs, for example flour, sugar, eggs, butter and milk.
+
 Function 7:	Maximisation, optimising an ML model by tuning six hyperparameters, for example learning rate, regularisation strength or number of hidden layers.
+
 Function 8:	Maximisation, optimising an eight-dimensional black-box function, where each of the eight input parameters affects the output, but the internal mechanics are unknown. 
 
 
