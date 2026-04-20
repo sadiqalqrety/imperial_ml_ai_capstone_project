@@ -13,12 +13,19 @@ The project is an insightful hands-on experience to these low-level mathematical
 The inputs are numerical values between zero and one, see example inputs, per function, below.
 
 Function 1:	[0.839195, 0.748743]
+
 Function 2:	[0.575757, 0.999999]
+
 Function 3:	[0.000015, 0.999999, 0.999999]
+
 Function 4:	[0.000050, 0.406177, 0.000050, 0.999950]
+
 Function 5:	[0.000050, 0.000050, 0.066897, 0.999959]
+
 Function 6:	[0.453794, 0.184473, 0.988142, 0.998891, 0.050898]
+
 Function 7:	[0.000050, 0.411098, 0.228833, 0.144114, 0.346375, 0.736693]
+
 Function 8:	[0.000050, 0.061737, 0.126822, 0.000050, 0.552527, 0.573729, 0.000050, 0.241814]
 
 
@@ -27,12 +34,19 @@ Function 8:	[0.000050, 0.061737, 0.126822, 0.000050, 0.552527, 0.573729, 0.00005
 See example outputs, below.
 
 Function 1:	-1.3793248852179627e-42
+
 Function 2:	0.08084127857059048
+
 Function 3:	-0.501755912728561
+
 Function 4:	-27.92656455534856
+
 Function 5:	190.72970845678554
+
 Function 6:	-0.8394620905844289
+
 Function 7:	1.5250340981229598
+
 Function 8:	9.8208672019139
 
 We are further informed of the domains for each of the functions, see below.
