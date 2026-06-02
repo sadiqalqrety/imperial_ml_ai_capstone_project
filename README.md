@@ -1,5 +1,13 @@
 # Project Overview
 
+Contents
+ - [Description and purpose](#description-and-purpose)
+ - [Inputs and outputs](#inputs-and-outputs)
+ - [Challenge objectives](#challenge-objectives)
+ - [Technical approach](#technical-approach)
+ - [Datasheet](.DATASHEET.md)
+ - [Model card](.MODEL_CARD.mc)
+
 ## Description and purpose
 
 There are eight BBO functions. The number of inputs vary from two to eight variables per function, and there is one output per function. The objective for every function is maximisation. The domains vary from chemical yields, cooking recipes and model performances. In short, the relationship between input and output is non-linear, and the landscape of output vary in terms of single and/or multiple peaks and valleys.
