@@ -5,8 +5,8 @@ Contents
  - [Inputs and outputs](#inputs-and-outputs)
  - [Challenge objectives](#challenge-objectives)
  - [Technical approach](#technical-approach)
- - [Datasheet](.DATASHEET.md)
- - [Model card](.MODEL_CARD.mc)
+ - [Datasheet](/DATASHEET.md)
+ - [Model card](/MODEL_CARD.mc)
 
 ## Description and purpose
 
