@@ -6,7 +6,7 @@ Contents
  - [Challenge objectives](#challenge-objectives)
  - [Technical approach](#technical-approach)
  - [Datasheet](/DATASHEET.md)
- - [Model card](/MODEL_CARD.mc)
+ - [Model card](/MODEL_CARD.md)
 
 ## Description and purpose
 
