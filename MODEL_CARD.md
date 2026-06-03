@@ -5,7 +5,7 @@ Type: Gaussian Process
 
 Version: 1.0.0
 
-Task: Propose function input variables for optimal yields
+Task: Black-box hyperparmeter optimisation
 
 Deployment: Used as part of Jupyter Notebook workflows
 
