@@ -44,7 +44,8 @@ Constraints: Current approach is only suitable for functions ranging from 2D to 
 
 Potential Failure Modes: The underlying Gaussian Process has a tendency to explore universe boundaries and this can be mitigated by use of "local-boundaries" per dimension
 
-Summaries - yield results for functions across the ten iterations
+Summaries - yield results for functions across the ten iterations exist in the respective function jupyter notebooks, see below Function 7 with nine iteration
+![Function 7](/function_7_chart_9th_iteration.png)
 
 Evaluation - Each function has a specific approach as per number of dimensions, for example, Sobol Sequence is only used in the functions with more than six dimensions, hence, inter-function evaluation is not suitable.
 
