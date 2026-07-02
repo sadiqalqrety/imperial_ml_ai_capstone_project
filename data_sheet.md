@@ -1,5 +1,5 @@
 # Datasheet 
-General project-wide context (data source, licence, weekly-query constraint) is in [archive/DATASHEET.md](archive/DATASHEET.md); this file focuses on the per-function optimisation reasoning.
+General project-wide context (data source, licence, weekly-query constraint) is in [archive/data_sheet.md](archive/DATASHEET.md); this file focuses on the per-function optimisation reasoning.
 
 ## Function 1: Contamination Detection
 
