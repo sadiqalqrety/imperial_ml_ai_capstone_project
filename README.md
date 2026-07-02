@@ -69,7 +69,7 @@ Function 2 - visualisations for human intution about function performance region
 #### **Summary**
 Across all eight functions, exploration-heavy acquisition parameters (high `kappa`/`xi`) in the early iterations successfully mapped out each landscape, and results improved once the search was narrowed to promising regions. The main limitation is that 
 
-More generally, kernel hyperparameters and exploration parameters were tuned manually rather than via a systematic outer-loop search (e.g. cross-validated marginal likelihood comparison), hence, the results reflect a human-in-the-loop BO process rather than a fully automated one — see [model card](archive/MODEL_CARD.md) for details of limitations and reproducibility.
+More generally, kernel hyperparameters and exploration parameters were tuned manually rather than via a systematic outer-loop search (e.g. cross-validated marginal likelihood comparison), hence, the results reflect a human-in-the-loop BO process rather than a fully automated one — see [model card](/MODEL_CARD.md) for details of limitations and reproducibility.
 
 ## CONTACT DETAILS
 
