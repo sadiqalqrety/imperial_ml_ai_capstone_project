@@ -1,5 +1,7 @@
 # Model Card
 
+See [here](archive/MODEL_CARD.md) for more detailed information.
+
 ## Description
 
 **Input:** Each of the eight black-box functions takes a vector of floating-point numbers in `[0, 1]`, precise to six decimal places, with dimensionality specific to the function: 2D (Functions 1–2), 3D (Function 3), 4D (Function 4-5), 5D (Function 6), 6D (Function 7), 8D (Function 8). At each weekly step the surrogate model also consumes the full cumulative history of previously observed `(X, y)` pairs for that function, since the Gaussian Process is refit from scratch on all data seen so far before proposing the next candidate.
