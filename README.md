@@ -71,7 +71,11 @@ Across all eight functions, exploration-heavy acquisition parameters (high `kapp
 
 More generally, kernel hyperparameters and exploration parameters were tuned manually rather than via a systematic outer-loop search (e.g. cross-validated marginal likelihood comparison), hence, the results reflect a human-in-the-loop BO process rather than a fully automated one — see [model card](/MODEL_CARD.md) for details of limitations and reproducibility.
 
-## CONTACT DETAILS
+## Distribution 
+Model card and code available in repository for scrutiny and improvement, under MIT license.
 
+Contact
 - GitHub: [github.com/sadiqalqrety](https://github.com/sadiqalqrety)
 - Email: sadiqalqrety@gmail.com
+
+
