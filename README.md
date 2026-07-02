@@ -6,7 +6,7 @@ Imagine you're trying to find the best recipe, drug combination, or warehouse la
 
 ## Data
 
-The data comes from **Imperial Executive Education**, as part of the *Professional Certificate in Machine Learning and Artificial Intelligence* (Module 12: Bayesian Optimisation), and is used here as coursework/learning material. Full documentation of the dataset's motivation, composition and collection process is in [data sheet](/DATA_SHEET.md).
+The data comes from **Imperial Executive Education**, as part of the *Professional Certificate in Machine Learning and Artificial Intelligence* (Module 12: Bayesian Optimisation), and is used here as coursework/learning material. Full documentation of the dataset's motivation, composition and collection process is in [data sheet](/DATASHEET.md).
 
 There are eight black-box functions, each with a different input dimensionality (2D–8D) and a different real-world-inspired domain (see [here](archive/README.md) for the full list and example inputs/outputs).
 
