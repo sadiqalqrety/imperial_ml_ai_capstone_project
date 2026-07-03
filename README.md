@@ -53,18 +53,18 @@ A few learnings that shaped the tuning process:
 | 5 | Chemical yield (4D) | 8662 | [0.960914, 0.990000, 0.990000, 0.990000] | 11 |
 | 6 | Cake recipe (5D) | -3.136  | [0.009710, 0.979677, 0.029675, 0.011367, 0.857560] | 37 |
 | 7 | ML hyperparameter tuning (6D) | 1.9994 | [~0, 0.238, 0.405, 0.122, 0.334, 0.760] | 27 |
-| 8 | Unknown 8D function | 9.9122 | see `function_8` notebook | 24 |
+| 8 | Unknown 8D function | 9.9122 | [0.043396, 0.053307, 0.137597, 0.000025, 0.776263, 0.493814, 0.043575, 0.567457] | 24 |
 
 #### The week by week performance tracker
 
 Function 7 - weekly function performance against weekly iteration
 
-![Function 7](function_7_chart_9th_iteration.png)
+![Function 7](function_7/function_7_chart_9th_iteration.png)
 
 Function 2 - visualisations for human intution about function performance regions
 
-![Heatmap](function_2_heatmap.png)
-![Surface plot](function_2_3d_surface_plot.png)
+![Heatmap](function_2/function_2_heatmap.png)
+![Surface plot](function_2/function_2_3d_surface_plot.png)
 
 #### **Summary**
 Across all eight functions, exploration-heavy acquisition parameters (high `kappa`/`xi`) in the early iterations successfully mapped out each landscape, and results improved once the search was narrowed to promising regions. The main limitation is that 
