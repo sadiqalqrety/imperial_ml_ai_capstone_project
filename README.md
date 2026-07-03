@@ -44,7 +44,7 @@ A few learnings that shaped the tuning process:
 
 ## Results
 
-| Function | Domain | Best value found | Best input | Leaderboard (course cohort, 55 participants) | Leaderboard top score |
+| Function | Domain | Best value found | Best input | Leaderboard score (course cohort, 55 participants) | Leaderboard top score |
 |---|---|---|---|---|---|
 | 1 | Contamination detection (2D) | ≈ 3.06 × 10⁻⁶ | [0.687, 0.697] | 15 | 1.5578 |
 | 2 | Mystery model log-likelihood (2D) | 0.6112 | [0.703, 0.927] | 38 | N/A |
