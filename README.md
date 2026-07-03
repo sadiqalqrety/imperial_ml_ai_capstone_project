@@ -44,16 +44,16 @@ A few learnings that shaped the tuning process:
 
 ## Results
 
-| Function | Domain | Best value found | Best input | Leaderboard (course cohort, 55 participants) |
-|---|---|---|---|---|
-| 1 | Contamination detection (2D) | ≈ 3.06 × 10⁻⁶ | [0.687, 0.697] | 15 |
-| 2 | Mystery model log-likelihood (2D) | 0.6112 | [0.703, 0.927] | 38 |
-| 3 | Drug discovery, 3 compounds (3D) | −0.00469 (closest to zero) | [0.851, 0.612, 0.505] | 11 |
-| 4 | Warehouse placement (4D) | 0.6576 | [0.413, 0.407, 0.352, 0.425] | 9 |
-| 5 | Chemical yield (4D) | 8662 | [0.960914, 0.990000, 0.990000, 0.990000] | 11 |
-| 6 | Cake recipe (5D) | -3.136  | [0.009710, 0.979677, 0.029675, 0.011367, 0.857560] | 37 |
-| 7 | ML hyperparameter tuning (6D) | 1.9994 | [~0, 0.238, 0.405, 0.122, 0.334, 0.760] | 27 |
-| 8 | Unknown 8D function | 9.9122 | [0.043396, 0.053307, 0.137597, 0.000025, 0.776263, 0.493814, 0.043575, 0.567457] | 24 |
+| Function | Domain | Best value found | Best input | Leaderboard (course cohort, 55 participants) | Leaderboard top score |
+|---|---|---|---|---|---|
+| 1 | Contamination detection (2D) | ≈ 3.06 × 10⁻⁶ | [0.687, 0.697] | 15 | 1.5578 |
+| 2 | Mystery model log-likelihood (2D) | 0.6112 | [0.703, 0.927] | 38 | N/A |
+| 3 | Drug discovery, 3 compounds (3D) | −0.00469 (closest to zero) | [0.851, 0.612, 0.505] | 11 | N/A |
+| 4 | Warehouse placement (4D) | 0.6576 | [0.413, 0.407, 0.352, 0.425] | 9 | N/A |
+| 5 | Chemical yield (4D) | 8662 | [0.960914, 0.990000, 0.990000, 0.990000] | 11 | N/A |
+| 6 | Cake recipe (5D) | -3.136  | [0.009710, 0.979677, 0.029675, 0.011367, 0.857560] | 37 | N/A |
+| 7 | ML hyperparameter tuning (6D) | 1.9994 | [~0, 0.238, 0.405, 0.122, 0.334, 0.760] | 27 | 3.2264 |
+| 8 | Unknown 8D function | 9.9122 | [0.043396, 0.053307, 0.137597, 0.000025, 0.776263, 0.493814, 0.043575, 0.567457] | 24 | 9.9933 |
 
 #### The week by week performance tracker
 
